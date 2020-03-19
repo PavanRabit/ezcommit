@@ -5,6 +5,7 @@
         <members>ABC</members>
         <members>ABC145</members>
         <members>ABCNew</members>
+		<!-- added comment.-->
         <name>ApexClass</name>
     </types>
     <types>
