@@ -3,11 +3,11 @@
     <version>48.0</version>
     <types>
         <members>ABC</members>
+        <members>ABC1</members>
         <members>ABC11</members>
         <members>ABC145</members>
         <members>ABCNew</members>
         <members>Rabit_force__AutoRabit</members>
-		<!-- test-->
         <name>ApexClass</name>
     </types>
     <types>
