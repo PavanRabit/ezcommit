@@ -435,6 +435,9 @@
         <members>Opportunity.Amount</members>
         <members>Opportunity.CampaignId</members>
         <members>Opportunity.CloseDate</members>
+        <members>Opportunity.CloseDate1</members>
+        <members>Opportunity.CloseDate2</members>
+        <members>Opportunity.CloseDate3</members>
         <members>Opportunity.ContractId</members>
         <members>Opportunity.CurrentGenerators__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
